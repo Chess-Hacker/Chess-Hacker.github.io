@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Chess Hacker</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Chess Hacker</description>
+    <generator>Hugo -- 0.146.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Apr 2025 02:18:03 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Download Client</title>
+      <link>http://localhost:1313/posts/download/</link>
+      <pubDate>Sat, 12 Apr 2025 02:18:03 +0300</pubDate>
+      <guid>http://localhost:1313/posts/download/</guid>
+      <description>&lt;h1 id=&#34;download-chesshacker&#34;&gt;Download ChessHacker&lt;/h1&gt;
+&lt;p&gt;We&amp;rsquo;re happy to see you want to try ChessHacker! To get started, simply download the client here &lt;a href=&#34;https://github.com/Chess-Hacker/Chess-Hacker.github.io/releases/tag/v0.3.0-beta&#34;&gt;ZIP&lt;/a&gt;. You don&amp;rsquo;t need to complete any sign-ups or make any payments, simply click on the Demo button and start playing. You can run the demo as many times as you want!&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Drag Racing&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/download/client.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;how-to-use&#34;&gt;How to Use&lt;/h2&gt;
+&lt;p&gt;Guide article: &lt;a href=&#34;http://localhost:1313/posts/guide/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Using ChessHacker is simple! All you need to do in order to get it working is to &lt;strong&gt;choose your color&lt;/strong&gt; and hit Start. ChessHacker also comes with many extra helpful features that you can learn as you keep using our app, and we hope they&amp;rsquo;re intuitive to use! If you&amp;rsquo;re ever confused about anything, check the tutorial above or write to us at our support email: &lt;a href=&#34;mailto:chesshacker.maxwellsdemons@gmail.com&#34;&gt;chesshacker.maxwellsdemons@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Purchase</title>
+      <link>http://localhost:1313/posts/purchase/</link>
+      <pubDate>Fri, 11 Apr 2025 02:25:18 +0300</pubDate>
+      <guid>http://localhost:1313/posts/purchase/</guid>
+      <description>&lt;h1 id=&#34;purchase-chesshacker&#34;&gt;Purchase ChessHacker&lt;/h1&gt;
+&lt;p&gt;If you&amp;rsquo;re on this page, we hope you&amp;rsquo;re happy with the ChessHacker demo! To use our app without any time limits, you will need to buy a key.&lt;/p&gt;
+&lt;h2 id=&#34;where-to-buy&#34;&gt;Where to buy?&lt;/h2&gt;
+&lt;p&gt;You can purchase ChessHacker on &lt;a href=&#34;https://ko-fi.com/s/f9e884d55a&#34;&gt;Kofi&lt;/a&gt;. If you want to donate to ChessHacker, you can also do that on Kofi, but keep in mind &lt;em&gt;you will not get a key&lt;/em&gt; for it, just the knowledge you have helped a broke college student.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Guide</title>
+      <link>http://localhost:1313/posts/guide/</link>
+      <pubDate>Thu, 10 Apr 2025 02:18:03 +0300</pubDate>
+      <guid>http://localhost:1313/posts/guide/</guid>
+      <description>&lt;h1 id=&#34;getting-ready-with-chesshacker&#34;&gt;Getting Ready with ChessHacker&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&#34;Drag Racing&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/guide/client.png&#34;&gt;
+Before you can start playing you will need to purchase a key.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Go to our &lt;a href=&#34;https://ko-fi.com/s/f9e884d55a&#34;&gt;Kofi&lt;/a&gt; page and buy a key.&lt;/li&gt;
+&lt;li&gt;Open the ChessHacker launcher.&lt;/li&gt;
+&lt;li&gt;In the &amp;ldquo;Enter key&amp;rdquo; field, paste the key you received by mail. Make sure you don&amp;rsquo;t add any trailing whitespace!&lt;/li&gt;
+&lt;li&gt;Select the website you will be playing on, the chess engine that will be helping you and the browser you want to run the app in from the dropdown menus.&lt;/li&gt;
+&lt;li&gt;Click on Launch. If you do not have a key, you can click on Demo to try ChessHacker out, but the app will exit after 3 minutes.&lt;/li&gt;
+&lt;li&gt;You can now login on your chosen platform and start playing.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;chesshacker-ui-image&#34;&gt;ChessHacker UI Image&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&#34;Drag Racing&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/guide/UI.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

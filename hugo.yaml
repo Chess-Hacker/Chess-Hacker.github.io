@@ -1,0 +1,17 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Chess Hacker
+theme: ["PaperMod"]
+params:
+  searchHidden: false
+  homeInfoParams:
+    Title: Hello! Welcome to Chess Hacker!
+    Content: This is the best real time chess analisys tool out there. Please report any bugs by getting in contact with us at at chesshackersoftware@gmail.com
+  socialIcons: # optional
+    - name: "kofi"
+      url: "https://ko-fi.com/s/f9e884d55a"
+    - name: "paypal"
+      url: "https://ko-fi.com/s/f9e884d55a"
+caches:
+  images:
+    dir: :cacheDir/images

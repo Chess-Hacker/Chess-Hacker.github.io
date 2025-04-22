@@ -6,12 +6,14 @@ params:
   searchHidden: false
   homeInfoParams:
     Title: Hello! Welcome to Chess Hacker!
-    Content: This is the best real time chess analisys tool out there. Please report any bugs by getting in contact with us at at chesshackersoftware@gmail.com
+    Content: This is the best real time chess analysis tool out there. I do not condone using this software against other players. This is for educational purposes only.
   socialIcons: # optional
     - name: "kofi"
       url: "https://ko-fi.com/s/f9e884d55a"
     - name: "paypal"
       url: "https://ko-fi.com/s/f9e884d55a"
+    - name: "email"
+      url: "mailto:chesshackersoftware@gmail.com"
 caches:
   images:
     dir: :cacheDir/images

@@ -11,7 +11,7 @@ We're happy to see you want to try ChessHacker! To get started, simply download 
 ## How to Use
 Guide article: [Link](/posts/guide/)
 
-Using ChessHacker is simple! All you need to do in order to get it working is to **choose your color** and hit Start. ChessHacker also comes with many extra helpful features that you can learn as you keep using our app, and we hope they're intuitive to use! If you're ever confused about anything, check the tutorial above or write to us at our support email: chesshacker.maxwellsdemons@gmail.com
+Using ChessHacker is simple! All you need to do in order to get it working is to **choose your color** and hit Start. ChessHacker also comes with many extra helpful features that you can learn as you keep using our app, and we hope they're intuitive to use! If you're ever confused about anything, check the tutorial above or write to us at our support email: chesshackersoftware@gmail.com
 
 ## Buying ChessHacker
 Purchase article: [Link](/posts/purchase/)

@@ -4,7 +4,7 @@ draft: false
 title: 'Download Client'
 ---
 # Download ChessHacker
-We're happy to see you want to try ChessHacker! To get started, simply download the client here [ZIP](https://github.com/Chess-Hacker/Chess-Hacker.github.io/releases/tag/v0.3.0-beta). You don't need to complete any sign-ups or make any payments, simply click on the Demo button and start playing. You can run the demo as many times as you want!
+We're happy to see you want to try ChessHacker! To get started, simply get the client here [DOWNLOAD](https://github.com/Chess-Hacker/Chess-Hacker.github.io/releases/tag/v0.3.0-beta). You don't need to complete any sign-ups or make any payments, simply click on the Demo button and start playing. You can run the demo as many times as you want!
 
 ![Drag Racing](client.png)
 
